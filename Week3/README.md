@@ -1,0 +1,1 @@
+# The Lab in Week 1 uses Tableau.
