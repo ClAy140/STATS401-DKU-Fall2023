@@ -67,7 +67,7 @@ This project provides a **comprehensive analysis** of Genshin Impact’s Gacha s
 ### Running the Visualization Dashboard
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repository/final-project.git
+   git clone https://github.com/ClAy140/STATS401-DKU-Fall2023.git/Final_Project
    cd final-project
    ```
 2. **Install Dependencies**
