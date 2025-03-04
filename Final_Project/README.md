@@ -62,12 +62,23 @@ This project provides a **comprehensive analysis** of Genshin Impact’s Gacha s
 | **Peng Wang** | Visualization 2 & 5, Report Writing |
 | **Jiyuan Wang** | Visualization 1 & 3, Presentation Slides |
 | **Luyao Wang** | Visualization 4, Dashboard Implementation |
+## Acknowledgment
+
+The **GI_gacha_dataset** folder contains data and scripts originally sourced from my teammate's repository. Special thanks to:
+
+- **Luyao Wang** - Visualization 4, Dashboard Implementation
+
+His contributions were crucial in collecting and preparing this dataset. The original repository can be found at:
+[Luyao Wang's GitHub Repository](https://github.com/lywlywly/Stats401-Final.git)
+
+This dataset is used here with their permission and proper attribution.
+
 
 ## Getting Started
 ### Running the Visualization Dashboard
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ClAy140/STATS401-DKU-Fall2023.git/Final_Project
+   git clone git@github.com:ClAy140/STATS401-DKU-Fall2023.git
    cd final-project
    ```
 2. **Install Dependencies**
